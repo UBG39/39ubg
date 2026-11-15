@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>UBG39</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="vanta" aria-hidden="true"></div>
+  <div class="rays" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+  <canvas id="bubbles" aria-hidden="true"></canvas>
+
+  <header class="hero">
+    <h1 class="logo" aria-label="UBG39"><span>UBG39</span></h1>
+  </header>
+
+  <div class="searchbar">
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg>
+      <input id="search" type="search" placeholder="Search games" autocomplete="off" aria-label="Search games">
+    </label>
+  </div>
+
+  <main class="shell">
+    <section id="games" class="grid" aria-live="polite"></section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.24/vanta.waves.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
