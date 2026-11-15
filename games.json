@@ -8,25 +8,25 @@
   {
     "id": 2,
     "title": "Ragdoll Archers",
-    "image": "images/game-02.svg",
+    "image": "images/RagdollArchers.png",
     "url": "games/game-02/index.html"
   },
   {
     "id": 3,
     "title": "Deltarune",
-    "image": "images/game-03.svg",
+    "image": "images/DeltaRune.png",
     "url": "games/game-03/index.html"
   },
   {
     "id": 4,
     "title": "Soccer Random",
-    "image": "images/game-04.svg",
+    "image": "images/SoccerRandom.png",
     "url": "games/game-04/index.html"
   },
   {
     "id": 5,
     "title": "Crazy Cattle 3d",
-    "image": "images/game-05.svg",
+    "image": "images/crazycattle3d.png",
     "url": "games/game-05/index.html"
   },
   {
