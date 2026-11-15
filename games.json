@@ -7,25 +7,25 @@
   },
   {
     "id": 2,
-    "title": "Coral Run",
+    "title": "Ragdoll Archers",
     "image": "images/game-02.svg",
     "url": "games/game-02/index.html"
   },
   {
     "id": 3,
-    "title": "Bubble Burst",
+    "title": "Deltarune",
     "image": "images/game-03.svg",
     "url": "games/game-03/index.html"
   },
   {
     "id": 4,
-    "title": "Reef Racer",
+    "title": "Soccer Random",
     "image": "images/game-04.svg",
     "url": "games/game-04/index.html"
   },
   {
     "id": 5,
-    "title": "Neon Fin",
+    "title": "Crazy Cattle 3d",
     "image": "images/game-05.svg",
     "url": "games/game-05/index.html"
   },
